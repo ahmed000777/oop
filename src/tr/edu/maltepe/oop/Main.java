@@ -5,6 +5,7 @@ public class Main {
         public static void main(String[] args) {
 
             profesor p1,p2;
+            //gjjgjgjj
 
             p1=new profesor("ensar gul");
             p1.teaches();
